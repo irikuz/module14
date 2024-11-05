@@ -8,7 +8,7 @@ from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 import asyncio
 
 
-api = "7771962425:AAHEEecfIQyRDiPjU1945jEaKg5Qw7yE1Zk"
+api = "   "
 bot = Bot(token=api)
 dp = Dispatcher(bot, storage=MemoryStorage())
 
